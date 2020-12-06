@@ -1,0 +1,24 @@
+{
+  "name": "react-next",
+  "version": "1.0.0",
+  "description": "React and Next studies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcker/react-next.git"
+  },
+  "keywords": [
+    "react",
+    "next",
+    "javascript"
+  ],
+  "author": "marcker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcker/react-next/issues"
+  },
+  "homepage": "https://github.com/marcker/react-next#readme"
+}
