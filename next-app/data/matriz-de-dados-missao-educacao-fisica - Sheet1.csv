@@ -1,37 +1,35 @@
-Marcos Lima,Tiago Lima,Safira Garcia,Stephany Silva
-Missão 1,Missão 1,Missão 1,Missão 1
-0,0,0,0
-Nome da Missão,Nome da Missão,Nome da Missão,Nome da Missão
-Desafio 1,Desafio 1,Desafio 1,Desafio 1
-0 0,0 0,0 0,0 0
-Nome do Desafio 1,Nome do Desafio 1,Nome do Desafio 1,Nome do Desafio 1
-Desafio 2,Desafio 2,Desafio 2,Desafio 2
-0 1,0 1,0 1,0 1
-Nome do Desafio 2,Nome do Desafio 2,Nome do Desafio 2,Nome do Desafio 2
-Desafio 3,Desafio 3,Desafio 3,Desafio 3
-0 2,0 2,0 2,0 2
-Nome do Desafio 3,Nome do Desafio 3,Nome do Desafio 3,Nome do Desafio 3
-Missão 2,Missão 2,Missão 2,Missão 2
-1,1,1,1
-Nome do Missão 2,Nome do Missão 2,Nome do Missão 2,Nome do Missão 2
-Desafio 1,Desafio 1,Desafio 1,Desafio 1
-1 0,1 0,1 0,1 0
-Nome do Desafio 1,Nome do Desafio 1,Nome do Desafio 1,Nome do Desafio 1
-Desafio 2,Desafio 2,Desafio 2,Desafio 2
-1 1,1 1,1 1,1 1
-Nome do Desafio 2,Nome do Desafio 2,Nome do Desafio 2,Nome do Desafio 2
-Desafio 3,Desafio 3,Desafio 3,Desafio 3
-1 2,1 2,1 2,1 2
-Nome do Desafio 3,Nome do Desafio 3,Nome do Desafio 3,Nome do Desafio 3
-Missão 3,Missão 3,Missão 3,Missão 3
-2,2,2,2
-Nome do Missão 3,Nome do Missão 3,Nome do Missão 3,Nome do Missão 3
-Desafio 1,Desafio 1,Desafio 1,Desafio 1
-2 0,2 0,2 0,2 0
-Nome do Desafio 1,Nome do Desafio 1,Nome do Desafio 1,Nome do Desafio 1
-Desafio 2,Desafio 2,Desafio 2,Desafio 2
-2 1,2 1,2 1,2 1
-Nome do Desafio 2,Nome do Desafio 2,Nome do Desafio 2,Nome do Desafio 2
-Desafio 3,Desafio 3,Desafio 3,Desafio 3
-2 2,2 2,2 2,2 2
-Nome do Desafio 3,Nome do Desafio 3,Nome do Desafio 3,Nome do Desafio 3
+1,2,3,4,5
+Marcos Lima,Tiago Lima,Safira Garcia,Stephany Silva,João 123
+,,,,
+Nome da Missão 1 Marcos,Nome da Missão 1 Tiago,Nome da Missão 1 Safira,Nome da Missão 1 Stephany,Nome da Missão 1 João
+,,,,
+Nome do Desafio 1,Nome do Desafio 1,Nome do Desafio 1,Nome do Desafio 1,Nome do Desafio 1
+true,true,true,true,true
+,,,,
+Nome do Desafio 2,Nome do Desafio 2,Nome do Desafio 2,Nome do Desafio 2,Nome do Desafio 2
+true,true,true,true,true
+,,,,
+Nome do Desafio 3,Nome do Desafio 3,Nome do Desafio 3,Nome do Desafio 3,Nome do Desafio 3
+true,true,true,true,true
+,,,,
+Nome do Missão 2 Marcos,Nome do Missão 2 Tiago,Nome do Missão 2 Safira,Nome do Missão 2 Stephany,Nome do Missão 2 João
+,,,,
+Nome do Desafio 1,Nome do Desafio 1,Nome do Desafio 1,Nome do Desafio 1,Nome do Desafio 1
+true,true,true,true,true
+,,,,
+Nome do Desafio 2,Nome do Desafio 2,Nome do Desafio 2,Nome do Desafio 2,Nome do Desafio 2
+true,true,true,true,true
+,,,,
+Nome do Desafio 3,Nome do Desafio 3,Nome do Desafio 3,Nome do Desafio 3,Nome do Desafio 3
+true,true,true,true,true
+,,,,
+Nome do Missão 3 Marcos,Nome do Missão 3 Tiago,Nome do Missão 3 Safira,Nome do Missão 3 Stephany,Nome do Missão 3 João
+,,,,
+Nome do Desafio 1,Nome do Desafio 1,Nome do Desafio 1,Nome do Desafio 1,Nome do Desafio 1
+true,true,true,true,true
+,,,,
+Nome do Desafio 2,Nome do Desafio 2,Nome do Desafio 2,Nome do Desafio 2,Nome do Desafio 2
+true,true,true,true,true
+,,,,
+Nome do Desafio 3,Nome do Desafio 3,Nome do Desafio 3,Nome do Desafio 3,Nome do Desafio 3
+true,true,true,true,true
